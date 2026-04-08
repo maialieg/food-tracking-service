@@ -1,14 +1,12 @@
-package com.udacity.jdnd.course1exercises;
+package com.maialieg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class Course1ExercisesApplication {
+public class FoodTrackingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Course1ExercisesApplication.class, args);
+		SpringApplication.run(FoodTrackingApplication.class, args);
 	}
-
 }
